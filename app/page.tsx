@@ -14,7 +14,7 @@ import Footer from "./components/Footer"
 
 export default function Home() {
   return (
-    <main className="flex-auto bg-[#120e1b]">
+    <main className="flex-auto bg-[#120e1b] mb-0">
       <Navbar />
       <TestimonialsTop />
       <Hero />
