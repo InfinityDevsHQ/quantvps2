@@ -96,7 +96,7 @@ export default function Review() {
                 </div>
                 <div className="w-full lg:w-1/2">
                   <div className="relative mt-[-2rem] space-y-5 lg:space-y-8 md:mt-0 lg:mt-16 xl:mt-24">
-                    <span className="hidden text-xs font-bold uppercase leading-tight text-violet-500 dark:text-violet-400 sm:inline-block">
+                    <span className="hidden text-xs font-bold uppercase leading-tight text-violet-500 sm:inline-block">
                       Our servies are the best
                     </span>
 

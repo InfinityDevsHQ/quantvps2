@@ -12,7 +12,7 @@ export default function Testimonials() {
               Customer Reviews of QuantVPS NinjaTrader VPS Servers
             </h2>
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-              <div className="rounded-md p-4 bg-[#262329] text-card-foreground shadow dark:bg-card">
+              <div className="rounded-md p-4 bg-[#262329] text-card-foreground shadow">
                 <cite className="mb-2 flex items-center not-italic">
                   <Image
                     alt="Boat Builder avatar"
@@ -48,7 +48,7 @@ export default function Testimonials() {
                   </span>
                 </blockquote>
               </div>
-              <div className="rounded-md p-4 bg-[#262329] text-card-foreground shadow dark:bg-card">
+              <div className="rounded-md p-4 bg-[#262329] text-card-foreground shadow">
                 <cite className="mb-2 flex items-center not-italic">
                   <Image
                     alt="Boat Builder avatar"
@@ -83,7 +83,7 @@ export default function Testimonials() {
                   </span>
                 </blockquote>
               </div>
-              <div className="rounded-md p-4 bg-[#262329] text-card-foreground shadow dark:bg-card">
+              <div className="rounded-md p-4 bg-[#262329] text-card-foreground shadow">
                 <cite className="mb-2 flex items-center not-italic">
                   <Image
                     alt="Boat Builder avatar"

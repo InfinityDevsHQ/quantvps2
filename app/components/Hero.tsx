@@ -27,7 +27,7 @@ export default function Hero() {
                   <div className="mb-10 text-balance text-4xl font-bold tracking-tight md:text-6xl">
                     NinjaTrader 8 VPS Hosting
                   </div>
-                  <p className="mb-8 text-balance text-lg text-zinc-800 dark:text-zinc-200">
+                  <p className="mb-8 text-balance text-lg text-white">
                     Our{" "}
                     <span className="font-bold">
                       NinjaTrader VPS Hosting {""}
